@@ -68,6 +68,10 @@ namespace Sudoku.Controllers
             {
                 string[] lines_s = str[i].Split(' ');
                 result = service.Calculate.CalculateLC(lines_s);
+                if (result == false)
+                {
+                    return false;
+                }
             }
             return result;
         }

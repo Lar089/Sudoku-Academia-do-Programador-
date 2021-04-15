@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\NDD\\Sudoku\\Sudoku\\Sudoku.csproj": {}
+    "C:\\Users\\Cliente\\OneDrive\\Documentos\\NDD\\Sudoku\\Sudoku\\Sudoku.csproj": {}
   },
   "projects": {
-    "C:\\NDD\\Sudoku\\Sudoku\\Sudoku.csproj": {
+    "C:\\Users\\Cliente\\OneDrive\\Documentos\\NDD\\Sudoku\\Sudoku\\Sudoku.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\NDD\\Sudoku\\Sudoku\\Sudoku.csproj",
+        "projectUniqueName": "C:\\Users\\Cliente\\OneDrive\\Documentos\\NDD\\Sudoku\\Sudoku\\Sudoku.csproj",
         "projectName": "Sudoku",
-        "projectPath": "C:\\NDD\\Sudoku\\Sudoku\\Sudoku.csproj",
+        "projectPath": "C:\\Users\\Cliente\\OneDrive\\Documentos\\NDD\\Sudoku\\Sudoku\\Sudoku.csproj",
         "packagesPath": "C:\\Users\\Cliente\\.nuget\\packages\\",
-        "outputPath": "C:\\NDD\\Sudoku\\Sudoku\\obj\\",
+        "outputPath": "C:\\Users\\Cliente\\OneDrive\\Documentos\\NDD\\Sudoku\\Sudoku\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Cliente\\AppData\\Roaming\\NuGet\\NuGet.Config",
