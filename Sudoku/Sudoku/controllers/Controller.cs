@@ -13,6 +13,7 @@ namespace Sudoku.Controllers
         private static StringReader str = null;
         private static String[,] n_lines = new String[9, 9];
         private static String[,] n_columns = new String[9, 9];
+        private static String[,] n_columnsblocks = new String[9, 9];
         private static String[] l = new String[9];
         private static String[] c = new String[9];
 
@@ -110,7 +111,13 @@ namespace Sudoku.Controllers
             }
             return result;
         }
-
+        
+        public static bool CompareBocks(String[,] str_lines, String[,] str_blocks)
+        {
+            bool result = false;
+            result = service.Calculate.CalculateBlock(str_lines, str_blocks);
+            return result;
+        }
     }
 
     

@@ -12,7 +12,7 @@ namespace Sudoku.service
             {
                 for (int j = 0; j < _sudoku.Length; j++)
                 {
-                    if ((_sudoku[i].Equals(_sudoku[j])))// && (i != j)
+                    if ((_sudoku[i].Equals(_sudoku[j])))
                     {
                         if(i != j)
                         {
@@ -24,5 +24,26 @@ namespace Sudoku.service
             }
             return true;
         }
+
+        public static bool CalculateBlock(String[,] l_sudoku, String[,] str_blocks)
+        {
+            int l = 0;
+            for (int k = 0; k < 9; k++)
+            {
+                l = 0;
+                for (int i = 0; i < 3; i++)
+                {
+                    for (int j = 0; j < 3; j++)
+                    {
+                        int x = i + k % 3 * 3;
+                        int y = j + k / 3 * 3;
+                        str_blocks[k, l] = l_sudoku[x, y];
+                        l++;
+                    }
+                }
+            }
+            return true;
+        }
+
     }
 }

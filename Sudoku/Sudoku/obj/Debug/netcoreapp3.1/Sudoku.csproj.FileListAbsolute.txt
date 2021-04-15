@@ -24,3 +24,16 @@ C:\NDD\Sudoku\Sudoku\bin\Debug\netcoreapp3.1\Sudoku.runtimeconfig.dev.json
 C:\NDD\Sudoku\Sudoku\bin\Debug\netcoreapp3.1\Sudoku.dll
 C:\NDD\Sudoku\Sudoku\bin\Debug\netcoreapp3.1\Sudoku.pdb
 C:\NDD\Sudoku\Sudoku\obj\Debug\netcoreapp3.1\Sudoku.genruntimeconfig.cache
+C:\Users\Cliente\OneDrive\Documentos\NDD\Sudoku\Sudoku\obj\Debug\netcoreapp3.1\Sudoku.csprojAssemblyReference.cache
+C:\Users\Cliente\OneDrive\Documentos\NDD\Sudoku\Sudoku\obj\Debug\netcoreapp3.1\Sudoku.AssemblyInfoInputs.cache
+C:\Users\Cliente\OneDrive\Documentos\NDD\Sudoku\Sudoku\obj\Debug\netcoreapp3.1\Sudoku.AssemblyInfo.cs
+C:\Users\Cliente\OneDrive\Documentos\NDD\Sudoku\Sudoku\obj\Debug\netcoreapp3.1\Sudoku.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\OneDrive\Documentos\NDD\Sudoku\Sudoku\obj\Debug\netcoreapp3.1\Sudoku.dll
+C:\Users\Cliente\OneDrive\Documentos\NDD\Sudoku\Sudoku\obj\Debug\netcoreapp3.1\Sudoku.pdb
+C:\Users\Cliente\OneDrive\Documentos\NDD\Sudoku\Sudoku\bin\Debug\netcoreapp3.1\Sudoku.exe
+C:\Users\Cliente\OneDrive\Documentos\NDD\Sudoku\Sudoku\bin\Debug\netcoreapp3.1\Sudoku.deps.json
+C:\Users\Cliente\OneDrive\Documentos\NDD\Sudoku\Sudoku\bin\Debug\netcoreapp3.1\Sudoku.runtimeconfig.json
+C:\Users\Cliente\OneDrive\Documentos\NDD\Sudoku\Sudoku\bin\Debug\netcoreapp3.1\Sudoku.runtimeconfig.dev.json
+C:\Users\Cliente\OneDrive\Documentos\NDD\Sudoku\Sudoku\bin\Debug\netcoreapp3.1\Sudoku.dll
+C:\Users\Cliente\OneDrive\Documentos\NDD\Sudoku\Sudoku\bin\Debug\netcoreapp3.1\Sudoku.pdb
+C:\Users\Cliente\OneDrive\Documentos\NDD\Sudoku\Sudoku\obj\Debug\netcoreapp3.1\Sudoku.genruntimeconfig.cache
